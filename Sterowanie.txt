@@ -1,0 +1,3 @@
+WASD/Strzałki - ruszanie statkiem
+Spacja - strzał
+Escape - Menu
